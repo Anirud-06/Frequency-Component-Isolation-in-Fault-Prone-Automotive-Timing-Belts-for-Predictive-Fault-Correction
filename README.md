@@ -1,0 +1,2 @@
+# Frequency-Component-Isolation-in-Fault-Prone-Automotive-Timing-Belts-for-Predictive-Fault-Correction
+A method for analyzing the frequency characteristics of recorded audio signals from a car timing belt to determine if it is faulty. We use Discrete Fourier Transform (DFT) and Butter-worth filtering techniques to process the audio data, aiming to isolate and identify relevant frequency bands associated with timing belt faults.
